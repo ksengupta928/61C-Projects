@@ -32,3 +32,14 @@ In order to view the files, use Logisim!
 
 -----
 
+###Project 4:  Performance Programming 
+Optimized an algorithm that determined the depth of objects based on two slightly differing images (such as the left eye and the right eye).  Achieved on average 9x-10x speedup.
+
+#####What was Learned
+* Steaming SIMD Extensions
+* Multithreaded Programming
+* Loop Un-rolling
+* Open-MP for C Multithreading
+
+-----
+
