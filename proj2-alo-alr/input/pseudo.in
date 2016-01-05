@@ -1,0 +1,12 @@
+lui $at 0x0000
+ori $v0, $at, 0x000a
+lui $at 0xffff
+ori $a1, $at, 0xe890
+lui $at 0x0001
+ori $a2, $at, 0x3880
+lui $at 0xb0ba
+ori $a3, $at, 0xcafe
+slt $at, $t3, $a0
+bne $0, $at, label1
+slt $at, $sp, $v0
+bne $0, $at, label2

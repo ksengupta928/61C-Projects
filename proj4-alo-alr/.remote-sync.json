@@ -1,0 +1,15 @@
+{
+  "transport": "scp",
+  "hostname": "hive11.cs.berkeley.edu",
+  "port": "22",
+  "username": "cs61c-alo",
+  "password": "Shyam1996",
+  "keyfile": "/Users/kishanpatel/.ssh/id_rsa",
+  "passphrase": "",
+  "target": "proj4-alo-alr/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "uploadOnSave": true
+}
