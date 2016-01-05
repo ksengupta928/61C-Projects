@@ -43,3 +43,9 @@ Optimized an algorithm that determined the depth of objects based on two slightl
 
 -----
 
+###Project 5: Simple Pagerank Algorithm
+Utilized Spark to implement a simplified formula of PageRank using Spark.
+
+#####What was Learned
+* MapReduce - General approach to solve real life problems
+* Spark (Python) and Hadoop (Java) 
